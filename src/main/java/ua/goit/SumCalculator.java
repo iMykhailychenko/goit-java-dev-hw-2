@@ -1,4 +1,4 @@
-package ui.goit;
+package ua.goit;
 
 public class SumCalculator {
     int sum(int n) {

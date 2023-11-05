@@ -1,4 +1,4 @@
-package ui.goit;
+package ua.goit;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
